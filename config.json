@@ -1,0 +1,234 @@
+{
+    "en": {
+        "styles": {
+            "bg": "#f3f4f1",
+            "primary": "#25ac61",
+            "primary-text": "#222829",
+            "primary-light": "#77d09f",
+            "primary-light-text": "#deeadf",
+            "secondary": "#fb333d",
+            "secondary-text": "#ffffff",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+            "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, s\u00e4kra ins\u00e4ttningar och uttag. Spela med komfort och s\u00e4kerhet och gl\u00f6m inte att h\u00e4mta din bonus!",
+            "canonical": "#",
+            "ogImage": "https:\/\/paf-casino-online.com\/images\/og_image.webp",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@pafcasino",
+            "favicon": "https:\/\/paf-casino-online.com\/favicon.ico",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/paf-casino-online.com\/icons\/icon-192x192.webp"
+        },
+        "header": {
+            "logo": "https:\/\/paf-casino-online.com\/_next\/static\/media\/logo.9568bf57.svg",
+            "logoAlt": "Paf Casino Sverige Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Welcome Bonus",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/paf-casino-online.com\/images\/hero-group.webp",
+            "mobileImage": "https:\/\/paf-casino-online.com\/images\/hero-mobile.webp"
+        },
+        "topCasino": {
+            "title": "Top Casino",
+            "allCasino": "All Casino"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "items": [
+                "Legal and safe casino",
+                "Quick registration",
+                "Data protection",
+                "No wagering bonus",
+                "Wide range of games"
+            ],
+            "knowMore": "Know more",
+            "appTitle": "Mobile App",
+            "mobile": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
+            "mobileAlt": "Mobile App"
+        },
+        "games": {
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "History",
+                "description1": "First paragraph of history",
+                "items": [
+                    "History item 1",
+                    "History item 2"
+                ],
+                "description2": "Second paragraph of history",
+                "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                "imageAlt": "History",
+                "description3": "Third paragraph of history"
+            },
+            "connect": {
+                "title": "Connect",
+                "description1": "First paragraph of connect",
+                "items": [
+                    "Connect item 1",
+                    "Connect item 2"
+                ],
+                "description2": "Second paragraph of connect"
+            },
+            "deposit1": {
+                "title": "Deposit 1",
+                "description1": "First paragraph of deposit 1",
+                "items": [
+                    "Deposit 1 item 1",
+                    "Deposit 1 item 2"
+                ],
+                "description2": "Second paragraph of deposit 1"
+            },
+            "deposit2": {
+                "title": "Deposit 2",
+                "description1": "First paragraph of deposit 2",
+                "items": [
+                    "Deposit 2 item 1",
+                    "Deposit 2 item 2"
+                ],
+                "description2": "Second paragraph of deposit 2"
+            }
+        },
+        "payMethod": {
+            "title": "Payment Methods",
+            "method": "Method",
+            "type": "Type",
+            "country": "Country",
+            "commission": "Commission",
+            "processingTime": "Processing Time",
+            "minimumDeposit": "Minimum Deposit",
+            "deposit": "Deposit"
+        },
+        "security": {
+            "title1": "Security Title 1",
+            "description1": "Security description 1",
+            "title2": "Security Title 2",
+            "description2": "Security description 2"
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "application": {
+            "title": "Mobile Application",
+            "description1": "Application description",
+            "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile-app.5de21383.webp&w=384&q=75",
+            "imageAlt": "Mobile Application"
+        },
+        "idioma": {
+            "title1": "Language Title 1",
+            "description1": "Language description 1",
+            "title2": "Language Title 2",
+            "description2": "Language description 2"
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "FAQ Question 1",
+                    "answer": "FAQ Answer 1"
+                },
+                {
+                    "title": "FAQ Question 2",
+                    "answer": "FAQ Answer 2"
+                }
+            ]
+        },
+        "availableGames": {
+            "title": "Available Games",
+            "description": "Available games description",
+            "column1": [
+                {
+                    "title": "Game 1",
+                    "description": "Game 1 description"
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Game 2",
+                    "description": "Game 2 description"
+                }
+            ]
+        },
+        "support": {
+            "title": "Support",
+            "description1": "Support description 1",
+            "items": [
+                "Support item 1",
+                "Support item 2"
+            ],
+            "description2": "Support description 2",
+            "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupport.cb9afcc0.webp&w=640&q=75",
+            "imageAlt": "Support"
+        },
+        "bonuses": {
+            "title": "Bonuses",
+            "description": "Bonuses description",
+            "column1": [
+                {
+                    "title": "Bonus 1",
+                    "description": "Bonus 1 description"
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Bonus 2",
+                    "description": "Bonus 2 description"
+                }
+            ]
+        },
+        "prosAndCons": {
+            "title": "Pros and Cons",
+            "description": "Pros and cons description",
+            "pros": {
+                "title": "Pros",
+                "items": [
+                    "Pros item 1",
+                    "Pros item 2"
+                ]
+            },
+            "cons": {
+                "title": "Cons",
+                "items": [
+                    "Cons item 1",
+                    "Cons item 2"
+                ]
+            }
+        },
+        "footer": {
+            "copyright": "Paf Casino"
+        },
+        "seoId": null
+    }
+}
